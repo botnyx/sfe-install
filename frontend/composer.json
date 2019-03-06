@@ -1,0 +1,7 @@
+{
+    "require": {
+	    "botnyx/sfe-frontend-base": "dev-master as 0.1",
+      "botnyx/sfe-frontend-core": "dev-master as 0.1",
+	    "botnyx/sfe-shared-core": "dev-master as 0.1"
+    }
+}
