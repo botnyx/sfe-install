@@ -6,3 +6,6 @@
 
 # Frontend server setup.
 ...tbd
+
+# Auth server setup.
+...tbd
